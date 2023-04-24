@@ -33,12 +33,13 @@ body {
   color: pink;
 }
 
-/* check box above 8 -- grey square where its not supposed to be */
+
 .output {
   grid-column: span 3;
   background-color: rgb(239, 221, 221);
   display: flex;
   justify-content: right;
+  align-items: center;
   text-align: right;
   align-items: flex-end;
   padding: 2px;
